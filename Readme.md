@@ -1,10 +1,9 @@
 # Command
-minikube start --driver=docker
+minikube service mongo-express-service
 
-minikube service kuber-service2
-
-![Alt text](image.png) 
+![Alt text](image.png)
+![Alt text](image-1.png)
 
 # Result
 
-![Alt text](image-1.png)
+![Alt text](image-2.png)
